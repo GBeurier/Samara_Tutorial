@@ -1,0 +1,5 @@
+param;lower;upper
+InternodeLengthMax;29.5;86
+LeafLengthMax;232;910
+TilAbility;0.1;0.4
+CoeffPanicleMass;0.11;0.44
