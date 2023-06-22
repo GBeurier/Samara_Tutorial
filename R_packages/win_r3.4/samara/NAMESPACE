@@ -1,0 +1,3 @@
+useDynLib(samara)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)

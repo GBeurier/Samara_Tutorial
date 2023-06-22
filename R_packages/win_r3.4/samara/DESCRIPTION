@@ -1,0 +1,15 @@
+Package: samara
+Type: Package
+Title: Samara simulator package for R
+Version: 2.3
+Date: 2018-03-20
+Author: Gregory Beurier
+Maintainer: Gregory Beurier <gregory.beurier@cirad.fr>
+Description: The package contains the Samara simulation engine and the scripts
+			 for parameters estimation et sensitivity analysis. Package initiated
+			 by Eric Ramat.
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.9)
+LinkingTo: Rcpp
+Built: R 3.4.3; x86_64-w64-mingw32; 2023-06-22 14:29:12 UTC; windows
+Archs: i386, x64
